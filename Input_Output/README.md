@@ -1,8 +1,0 @@
-# Input_Output
-
-## Problem Description
-
-Complete the function printNumber which takes an integer input from the user and prints it on the screen.Use:-for C++ : cout << variable_name;for Java : System.out.print();for Python : print()for Javascript : console.log()
-
-## Link
-[takeUforward](https://takeuforward.org/plus/dsa/problems/input-output?source=strivers-a2z-dsa-track&tab=submissions)
