@@ -1,0 +1,11 @@
+import java.util.*;
+
+class Solution {
+    public void printNumber(Scanner sc) {
+        // Read the integer using the provided 'sc' scanner
+        int a = sc.nextInt();
+        
+        // Print the integer
+        System.out.println(a);
+    }
+}
