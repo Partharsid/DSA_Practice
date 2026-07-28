@@ -1,0 +1,11 @@
+class Solution {
+    public int largestElement(int[] nums) {
+        int maxele = nums[0];
+        for(int i = 0 ; i < nums.length; i++){
+            if (maxele < nums[i]){
+                maxele = nums[i];
+            }
+        }
+        return maxele;
+    }
+}
