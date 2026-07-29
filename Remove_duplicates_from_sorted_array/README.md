@@ -1,4 +1,4 @@
-<h2><a href="https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-a2z-dsa-track&tab=editorial">Remove duplicates from sorted array</a></h2>
+<h2><a href="https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-a2z-dsa-track&tab=submissions">Remove duplicates from sorted array</a></h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/takeUforward-orange?style=for-the-badge&logo=takeuforward&logoColor=white" alt="takeUforward" />
