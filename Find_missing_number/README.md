@@ -1,4 +1,4 @@
-<h2><a href="https://takeuforward.org/plus/dsa/problems/find-missing-number?subject=dsa&category=arrays&subcategory=logic-building&source=strivers-a2z-dsa-track">Find missing number</a></h2>
+<h2><a href="https://takeuforward.org/plus/dsa/problems/find-missing-number?subject=dsa&category=arrays&subcategory=logic-building&source=strivers-a2z-dsa-track&tab=submissions">Find missing number</a></h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/takeUforward-orange?style=for-the-badge&logo=takeuforward&logoColor=white" alt="takeUforward" />
