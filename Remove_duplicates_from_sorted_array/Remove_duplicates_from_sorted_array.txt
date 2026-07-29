@@ -1,15 +1,16 @@
+import java.util.*;
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int length = nums.length;
-        int count = 0;
-        for (int num : nums){
-            if(num != nums[length-2]){
-                if (nums[num] == nums[num+1]){
-                    count++;
-                }
-            }
-            
+        Set<Integer> s = new TreeSet<>();
+        for (int val : nums){
+            s.add(val);
         }
-        return count;
+        int k = s.size();
+        
+        int j =0;
+        for (int val: s){
+            nums[j++] = val;
+        }
+        return k;
     }
 }
