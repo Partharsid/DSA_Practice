@@ -1,8 +1,5 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int count = 0;
-        for(int val : nums){
-            
-        }
+        
     }
 }
